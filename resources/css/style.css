@@ -1,17 +1,15 @@
 /* Styling Excursion */
 * {
   font-family: Verdana;
+  text-align: center;
   background-color: black;
   }
-
-body {
-  text-align: center;
-}
 
 .header {
   font-size: 50px;
   color: white;
   font-weight: normal;
+  /* The design mock WEBSITE shows a bold h1 font-weight: bold; */
 }
 
 .dl a {
@@ -29,7 +27,16 @@ img {
   padding: 10px;
 }
 
-span {
-  color: grey;
-  text-align: right;
+.footer p {
+    color: grey;
+    text-align: right;
+  }
+
+p {
+    color: grey;
+    font-size: 21px;
+}
+
+.mov {
+
 }
